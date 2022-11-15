@@ -24,7 +24,7 @@
 4. Transforming ncnn model
 
    ```
-   onnx2ncnn yolov5s-sim.onnx yolov5s.param yolov5s.bin
+   D:\ncnn\build\tools\onnx\Release\onnx2ncnn.exe yolo5m6_best-sim.onnx yolo5m6-sim.param yolo5m6-sim.bin
    ```
 
 5. Edit yolov5s.param file,Delete layer of lines 4-13
